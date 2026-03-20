@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Sobre mim
+
+Me chamo **Kevin Khristopher Kuznier** e estou em constante evolução — tanto pessoal quanto profissional. Tenho experiência na área de vendas, onde desenvolvi uma comunicação clara, empatia no atendimento e uma boa leitura de pessoas.
+
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, direcionando meu foco para o mundo da tecnologia e programação. Tenho interesse em construir sistemas completos, entender a lógica por trás das coisas e evoluir constantemente minhas habilidades técnicas.
+
+Além da área profissional, também sou movido por curiosidade intelectual. Gosto de explorar conceitos mais profundos, especialmente em matemática e teoria, buscando compreender estruturas e ideias além do óbvio.
+
+🚀 Sempre em busca de aprender mais, criar mais e ir além.
 
 <!--
 **Kev3333/Kev3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
